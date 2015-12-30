@@ -6,4 +6,7 @@ function theme_enqueue_styles() {
 
 }
 
+update_option( 'siteurl', 'https://mombucha.com' );
+update_option( 'home', 'https://mombucha.com' );
+
 ?>
