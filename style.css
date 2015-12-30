@@ -534,6 +534,9 @@ li.recentcomments {
   margin-bottom: 0;
   margin-top: 8px;
 }
+.woocommerce-cart .cart-collaterals .cart_totals table th {
+  width: 40%;
+}
 /* =Custom Styles
 ----------------------------------------------- */
 .site-branding {
