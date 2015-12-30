@@ -12,6 +12,6 @@ function theme_enqueue_styles() {
 //Ensure the $wp_rewrite global is loaded
 global $wp_rewrite;
 //Call flush_rules() as a method of the $wp_rewrite object
-$wp_rewrite->flush_rules( false );
+$wp_rewrite->flush_rules( true );
 
 ?>
